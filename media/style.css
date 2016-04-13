@@ -1,0 +1,521 @@
+/* CSS Document */
+/*.navbar_posts{ width:50px; height:30px; background-color:white;}*/
+
+body{ min-width:1200px; }
+.shouldunderline_a:hover{ text-decoration:underline;}
+a:hover{color: #08C;}
+.nav a{ font-size:15px; color:black;}
+.homepagecoursesnew{width: 970px;margin:0 auto; height:auto;}
+.newslot1{width:299px; background-color:white; margin-right:15px; float:left;  border-radius:3px; -webkit-border-radius:3px;-moz-border-radius:3px; padding-left:2px; padding-top:4px; height:auto; margin-bottom:24px; margin-left:6px; }
+.thmbanail{width:98%; height:100px;height:auto; margin-left:2.8px; }
+.coursename{width:100%; height:auto; margin-bottom:4px;font-weight: 400;
+font-size: 1.2em;
+overflow: hidden; margin-top:10px; margin-left:10px;}
+.litlecourcedes{width:100%;overflow: hidden; height:70px;margin-top:15px; padding-left:10px; padding-right:10px;}
+
+.aboutowner{width:100%; height:31px; margin-top:10px;background: #F4F4F4; margin-bottom:10px;}
+.ownersmallpic{width:30px; height:30px; float:left; margin-right:5px; background:url(media/6Wd93C6v.60x60.jpg);}
+.ownername{width:auto; float:left;line-height:30px;}
+.belo{width: 940px; background-color:white; height:320px;; border-radius:4px; margin-top:9px; margin-bottom:9px;}
+.signupforfree{margin-right: 10px; padding-right:20px; margin-left:55px; padding-top:30px;
+width: 380px;
+border-right: 1px solid #CCC;
+height: 260px;;}
+
+.signupforfree  h3{font-size: 24.5px;line-height: 30px;}
+.signupforfree p{font-size:1.2em; text-align:justify;}
+/* class: .btn-fuji-splash-3,  color theme: Fuji splash */
+.btn-fuji-splash-3 { text-shadow: 0px -1px 0px #003457; color: #ffffff; background-color: #005275; background-image: -moz-linear-gradient(top, #1e7093, #003457); background-image: -ms-linear-gradient(top, #1e7093, #003457); background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#1e7093), to(#003457)); background-image: -webkit-linear-gradient(top, #1e7093, #003457); background-image: -o-linear-gradient(top, #1e7093, #003457); background-image: linear-gradient(top, #1e7093, #003457); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e7093', endColorstr='#003457', GradientType=0); border-color: #005275 #003457 #003457 #005275; border-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0.35) rgba(0, 0, 0, 0.35) rgba(0, 0, 0, 0.25); }
+.btn-fuji-splash-3:hover, .btn-fuji-splash-3:active, .btn-fuji-splash-3.active, .btn-fuji-splash-3.disabled, .btn-fuji-splash-3[disabled] { background-color: #003457; }
+.btn-fuji-splash-3:hover { color: #c8ffff; text-shadow: 0px -1px 0px #001639; }
+.btn-fuji-splash-3:focus { color: #64b6d9; -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); border-color: #005275 #003457 #003457 #005275; border-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0.35) rgba(0, 0, 0, 0.35) rgba(0, 0, 0, 0.25); }
+.btn-fuji-splash-3.active, .btn-fuji-splash-3:active { background-image: none; -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); color: #64b6d9; }
+/* end .btn-fuji-splash-3 */
+
+.btn-xlarge {
+padding: 12px 29px;
+font-size: 20px;
+font-weight: bold;
+line-height: normal;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+a{text-decoration: none;}
+.signupnowbutton{width:auto; height:auto; float:right; margin-top:10px; margin-bottom:20px;}
+.sponsers{width:330px;  float:right; margin-right:60px; height:auto;}
+#footer{height:160px; width:100%; clear:both;background: #2C2C2C; margin-top:10px;}
+.footerinfo{ width:300px; height:auto; margin-left:240px; 
+}
+.footerinfo h4{line-height: 0; }
+.footerinfo a{color:White;}
+.newslot1:hover{-webkit-transition: box-shadow 0.3s linear;	box-shadow:0px 0px 6px #08C;
+ }
+.ccc{width:100%; height:auto; margin-top:64px;}
+.logincontainer{width:100%; height:auto; margin-top:64px;}
+.signupformonsignuppage{ margin-left:210px; float:left; margin-bottom:20px; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; width:540px; background-color:#FFF; height:auto; padding:20px; padding-top:20px; padding-bottom:10px;}
+.submitarea{width:100%; background:whiteSmoke; border-top:#E5E5E5 solid thin; height:90px; margin-top:20px;}
+.loginform{width:350px;border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; height:290px; float:left; background-color:white; margin-left:20px;padding:20px; padding-bottom:0px;}
+
+
+.coursespage{ width:970px; height:auto;  margin-left:16.5%;}
+.coursestoolbar{ width:100%; height:35px; background-color:white;  padding-bottom:5px; margin-bottom:20px;}
+.coursec{width:100%; height:auto; }
+.activityhompage{ width:300px; height:349px;border: 1px solid #369F1D; float:left; border-radius:6PX; background-color:white;}
+.backimg{width:100%; height:4px;  border-top-left-radius:6px;border-top-right-radius:6px; background-color:transparent;}
+.activitypropic{ width:40px; height:40px; float:left; margin-right:8px;}
+
+.drop-menu {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    padding: 10px 10px;
+    font-size: 22px;
+    height: 25px;
+    max-height: 25px;
+    width: 400px;
+    background: #fff;
+    cursor: pointer;
+    border: 1px solid #f6f0e4;
+}
+.drop-menu:hover .sub-menu {
+    display: inline-block;
+}
+sub-menu {
+    display: none;
+    width: 400px;
+    background: #fff;
+    padding: 10px 10px;
+    margin-left: -11px;
+    margin-top: 10px;
+    border: 1px solid #fff;
+    -webkit-box-shadow: 0px 13px 25px rgba(0,0,0, 0.2);
+    -moz-box-shadow: 0px 13px 25px rgba(0,0,0, 0.2);
+    box-shadow: 0px 13px 25px rgba(0,0,0, 0.2);
+}
+HTML Goodies : HTML5 : Tutorials
+Download Worklight Developer Edition 5.0 This plugin includes development tooling as well as a built-in application server.
+Sponsored
+Get Started Now: Windows Azure 90-day free trial. Try it now for free!
+Sponsored
+Post a comment
+Email Article
+Print Article
+ Share Articles
+Create Drop Down Menus With CSS3
+By Michael Rohde
+
+ 
+CSS3 is such a powerful tool that it allows truly creative people to continually find new and useful means to update their websites. Recently, I discovered a method to create a drop down menu using nothing but CSS3. The trick behind the code is to hide the drop down menu so that it only appears when the user hovers over the top-level menu item. This code comes from Webstuffshare and comes with a demo.
+CSS3 Code for Drop Down Menus
+
+The drop down menu itself is an unordered list, which you hide within a div that can be triggered to make the UL appear when the user hovers over the div. Here's how Webstuffshare sets up the overall design of the menu:
+
+.drop-menu {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    padding: 10px 10px;
+    font-size: 22px;
+    height: 25px;
+    max-height: 25px;
+    width: 400px;
+    background: #fff;
+    cursor: pointer;
+    border: 1px solid #f6f0e4;
+}
+
+This creates a fixed height for the menu along with setting definitions for the padding, font, border, cursor and so on. To simulate the look and feel of a menu, you'll want to manipulate the look of the cursor. You can do that with the pseudo-class :hover as such:
+
+.drop-menu:hover .sub-menu {
+    display: inline-block;
+}
+
+For the menu, you'll want to mimic some of the attributes that were defined earlier. Plus, you can add in some shadow effects to enhance the aesthetics.
+
+.sub-menu {
+    display: none;
+    width: 400px;
+    background: #fff;
+    padding: 10px 10px;
+    margin-left: -11px;
+    margin-top: 10px;
+    border: 1px solid #fff;
+    -webkit-box-shadow: 0px 13px 25px rgba(0,0,0, 0.2);
+    -moz-box-shadow: 0px 13px 25px rgba(0,0,0, 0.2);
+    box-shadow: 0px 13px 25px rgba(0,0,0, 0.2);
+}
+
+The shadow affect is rather advanced in that it uses a "box-shadow property, set x-axis to 0px, y-axis to 13px, blur to 25px and shadow color to black with 20% alpha. This will make the shadow [sic] has a gradient effect."
+
+As mentioned at the start of the article, the drop down menu is itself a list, which also must be defined:
+
+.sub-menu li {
+        list-style-type: none;
+        display: block;
+        border-bottom: 1px dotted #eaeaea;
+        font-size: 19px;
+        height: 22px;
+        padding: 8px 0;
+    }
+.sub-menu li img {
+            margin-right: .5em;
+        }
+
+.sub-menu li:hover {
+        border-bottom: 1px dotted #bababa;
+    }
+
+.plus {
+    display: inline-block;
+    -webkit-transition: .3s ease-in-out;
+      -moz-transition: .3s ease-in-out;
+      -o-transition: .3s ease-in-out;
+}
+.drop-menu:hover .plus {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+}
+
+.caret {
+	border-top-color: #777;
+border-bottom-color: #777;
+display: inline-block;
+width: 0;
+height: 0;
+vertical-align: top;
+border-top: 4px solid #777;
+border-right: 4px solid transparent;
+border-left: 4px solid transparent;
+content: "";
+margin-top:15px;
+margin-left:4px;
+color: #666;
+}
+.searchcontainer{  width:1020px; height:auto;; margin:0 auto; border:none;}
+.searchcontrolbox{ width:260px; padding:20px; background: #EEE; margin-top:50px;border-radius: 4px;}
+#searchform label{color: #F60;font-size: 11.9px;font-weight: bold;line-height: 20px;}
+#sublab{float: left; 
+ list-style:none;padding-top: 8px;padding-bottom: 8px;margin-top: 2px;
+margin-bottom: 2px;
+-webkit-border-radius: 16px;
+-moz-border-radius: 16px;
+border-radius: 16px;padding-right: 12px;
+padding-left: 12px;
+margin-right: 2px;
+line-height: 14px; margin-right:3px; margin-top:6px;}
+
+#sublab:hover{color:white;background: #555;}
+.active{color:white;background: #555; }
+.leftpanel{height:auto; min-height:500px;}
+.courselist{ width:650px; height:auto; margin-right:45px; float:left; margin-top:29px; }
+.searchpagecourselayout1{ width:300px; height:380px; float:left;  border-radius:5px;  background-color:white;padding-top:4.3px; margin-right:20px; margin-bottom:20px;}
+.searchpagethubm{ width:290px; height:168px;  margin-left:4.3px;}
+.searchpagecoursetitle{width:290px; height:25px;  overflow:hidden;font-weight: 400; margin-top:10px;
+font-size: 1.2em; margin-left:15px;}
+
+.searchaboutowner{ width:95%;padding: 3px; margin-left:5px;
+height: 30px;
+overflow: hidden;
+background: #F4F4F4;}
+
+.priceandicons{width:95%; height:36px; overflow:hidden;margin-top:10px; }
+
+.pro{width:980px; height:200px;  margin:0 auto; }
+.profsidebar{float:left; width:260px; padding-right:18px; padding-bottom:20px;    background: #eee; border-radius:5px; padding-top:20px;}
+.logo{margin-top:8px; margin-left:15%;}
+.profcontent{float:left;  width:610px;margin-left:16px; border-radius:5px; padding:10px; padding-top:20px;}
+.pronav{ width:260px; height:auto; margin-top:3px; margin-bottom:10px; background-color:white; margin:0 auto; border-radius:3px; border: 1px solid #ccc; border-bottom:none; }
+.pronavslide{ width:100%; height:38px; background-color:white; list-style:none; background:url(right-arrow.png) no-repeat; background-position:right;border-bottom: 1px solid #ccc;    }
+.pronavslideactive{ width:100%; height:38px; color:white; list-style:none;background: #0099ff url(right-arrow-w.png) no-repeat; background-position:right; }
+.aonpro{ margin-left:15px; line-height:40px; }
+#overview{width:90%; height:auto; background-color:white; padding-left:10px;}
+#activity{width:98%; height:auto; background-color:white; padding-left:10px;}
+.activitypro{ width:auto; overflow:hidden;}
+.followers{ width:80%;}
+.follocontainer_pro{  width:80%; padding:10px; }
+#contactdetails{width:90%; height:auto; background-color:white; padding-left:10px;}
+
+
+#addsession{ width:550px;}
+.addsessionheader{ width:100%; height:53px; margin-bottom:thin solid gray; position:fixed;}
+.black_overlay{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+}
+ 
+.white_content {
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: auto;
+	height: auto;
+	padding: 16px;
+
+	background-color:transparent;
+	z-index:1002;
+	overflow: auto;
+}
+#light label{color: #555;}
+
+
+
+
+
+
+.coursesofdawrat{ width:500px; background-color:transparent;}
+
+
+
+
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; }
+.ui-timepicker-rtl dl dd { margin: 0 65px 10px 10px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.thumbnails {
+margin-left: -20px;
+list-style: none;
+}span4 ul, menu, dir {
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
+
+.thumbnails > li {
+float: left;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+.span4 {
+width: 300px; margin-bottom:20px;
+}
+[class*="span"] {
+float: left;
+min-height: 1px;
+margin-left: 20px;
+}
+span4 li {
+line-height: 20px;
+}
+
+.thumbnails > li {
+float: left;
+margin-bottom: 20px;
+margin-left: 20px;
+}
+.span4 {
+width: 300px;
+}
+[class*="span"] {
+float: left;
+min-height: 1px;
+margin-left: 20px;
+}
+ span4 li {
+line-height: 20px;
+}
+
+
+.thumbnails {
+list-style: none;
+}
+
+.course-thumb .thumbnail {
+cursor: pointer;
+z-index: 100;
+border-radius: 4px;
+background: #fff;
+}
+.thumbnail {
+display: block;
+padding: 4px;
+line-height: 20px;
+border: 1px solid #ddd;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+-webkit-transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+-o-transition: all .2s ease-in-out;
+transition: all .2s ease-in-out;
+}
+ .thumbnail:hover{cursor:pointer;box-shadow:0 0 10px rgba(0,0,0,0.3); border:1px solid #3cf;}
+.course-thumb a:link, .course-thumb a:visited {
+color: #555;
+}
+.course-thumb a:link, .course-thumb a:visited {
+color: #555;
+}
+
+.course-thumb .thumbnail {
+cursor: pointer;
+z-index: 100;
+border-radius: 4px;
+background: #fff;
+}
+.thumbnail {
+display: block;
+padding: 4px;
+line-height: 20px;
+border: 1px solid #ddd;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+box-shadow: 0 1px 3px rgba(0,0,0,0.055);
+-webkit-transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+-o-transition: all .2s ease-in-out;
+transition: all .2s ease-in-out;
+}
+
+.course-thumb a:link, .course-thumb a:visited {
+color: #555;
+}
+.course-thumb a:link, .course-thumb a:visited {
+color: #555;
+}
+a {
+color: #08c;
+}
+.course-name {
+font-size: 18px;
+margin-bottom: 5px;
+
+.course-thumb .thumbnail {
+cursor: pointer;
+}
+.thumbnail {
+line-height: 20px;
+}
+.pad10 {
+padding: 10px;
+}
+.tags{
+	margin:0;
+	padding:0;
+	position:absolute;
+	right:24px;
+	bottom:-12px;
+	list-style:none;
+	}
+	.tags li, .tags a{
+	float:left;
+	height:24px;
+	line-height:24px;
+	position:relative;
+	font-size:11px;
+	}
+	.tags a{
+	margin-left:20px;
+	padding:0 10px 0 12px;
+	background:#0089e0;
+	color:#fff;
+	text-decoration:none;
+	-moz-border-radius-bottomright:4px;
+	-webkit-border-bottom-right-radius:4px;	
+	border-bottom-right-radius:4px;
+	-moz-border-radius-topright:4px;
+	-webkit-border-top-right-radius:4px;	
+	border-top-right-radius:4px;	
+	} 
+	
+	.tags a:before{
+	content:"";
+	float:left;
+	position:absolute;
+	top:0;
+	left:-12px;
+	width:0;
+	height:0;
+	border-color:transparent #0089e0 transparent transparent;
+	border-style:solid;
+	border-width:12px 12px 12px 0;		
+	}
+	
+	.tags a:after{
+	content:"";
+	position:absolute;
+	top:10px;
+	left:0;
+	float:left;
+	width:4px;
+	height:4px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	background:#fff;
+	-moz-box-shadow:-1px -1px 2px #004977;
+	-webkit-box-shadow:-1px -1px 2px #004977;
+	box-shadow:-1px -1px 2px #004977;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

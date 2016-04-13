@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.shopingcart{width:900px; border-radius:5px; background-color:white; height:auto; margin:0 auto; padding:20px;}
+.itemcart{width:auto; float:left; margin-top:13px;}
+.checkoutcontainer{width:900px;  height:auto;border-radius:5px; background-color:white; margin:0 auto; padding:20px;}
+.leftsidepanelcheckout{ width:190px; padding-top:30px; text-align:right;  float:left; margin-right:15px;}
+.orderinfo{width:620px; height:auto; float:left; margin-left:20px;}
+.userinfoorderinfoform{ width:584px; height:auto;float:left; margin-left:20px;background: #EEE; padding:20px;}
+input,text{}

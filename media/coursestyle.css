@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.flo img{ width:25px; height:25px;margin-bottom:4px;float:left; margin-left:5px;}
+.coursecontainer{width:620px; height:auto; float:left; margin-left:11%; padding:10px;}
+.coursesidebar{width:300px; height:auto; float:left; margin-left:5px;padding:5px;}
+.coursegalary{width:100%; height:auto; }
+.coursemages{width:100%; height:360px; }
+.courseimgthubm{ width:97%; height:auto;background:rgba(255,255,255,0.5);  border-radius:4px; margin-top:5px; padding-top:10px; padding-bottom:10px; padding-left:20px;}
+.overview{width:100%;border: 1px solid #369F1D;height:auto; margin-top:20px; margin-top:10px; background-color:#FFF; border-top-image:url(../media/bg-g.png); border-radius:4px; }
+.backimg{width:100%; height:4px; background-image:url(../media/box-ss.png); border-top-left-radius:9px;border-top-right-radius:9px; background-color:transparent;}
+.commentandreview{width:100%;border: 1px solid #CCC;height:auto; margin-top:20px; margin-top:10px; background-color:#FFF;  border-radius:4px;}
+.commentform{width:550px; height:150px;; margin-left:30px; margin-top:15px;}
+.commenterimg{width:40px; height:40px; margin-right:10px; float:left;}
+.comments{width:96%; height:auto; margin-left:20px; border-top:#ccc thin dotted; }
+.comment{ width:96%; height:60px; margin-left:10px; padding-top:15px; }
+.conntimg{ width:40px; height:40px; float:left;}
+.registration{width:100%; height:auto;padding-bottom:10px;; background-color:white; height:287px;  border: 1px solid #EB5600; border-top-left-radius:9px; border-top-right-radius:9px;}
+.organizer{ widows:100%; height:auto; margin-top:15px; border-top-left-radius:9px; border-top-right-radius:9px; background-color:white; border: 1px solid #4B4B4B; margin-bottom:15px;  }
+.org{ width:auto; height:40px; margin-bottom:5px;}
+
+#a2:hover {
+color: #005580;
+text-decoration: underline;}
+
+.folower{ width:100%; height:auto;  border-top-left-radius:9px; border-top-right-radius:9px; background-color:white; border: 1px solid #FBBB00;}
+.flow{ width:100%; height:auto; margin-top:15px;}
+
+.locationandcontant{ width:100%; height:auto;  border-top-left-radius:9px; margin-top:15px; border-top-right-radius:9px; background-color:white; border: 1px solid #1F84DC;}
+.map{ width:90%; height:auto; margin-top:5px; margin:0 auto; }
+
+.isonheart{ width:14px; height:14px; float:left;background-position: -96px 0;background-image: url("../media/glyphicons-halflings-white.png"); margin-right:4px; margin-top:5px; }
+.userinfoadmin{width:100%; height:auto; margin-top:30px; margin-left:10px;}
+
+.approved{}
+.commentmenu{ width:100%;}
+
